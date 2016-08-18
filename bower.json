@@ -1,0 +1,17 @@
+{
+    "name": "iceland-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Cyreal"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/iceland-bower.git"
+    },
+    "description": "Iceland font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
